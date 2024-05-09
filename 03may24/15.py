@@ -1,0 +1,12 @@
+a=15
+b=5
+c=a+b
+print("Add=",c)
+d=a-b
+print("Sub=",d)
+e=a*b;
+print("Mul=",e)
+f=a/b
+print("Div=",f)
+g=a%b
+print("Modulo=",g)
